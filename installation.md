@@ -1,4 +1,4 @@
-Required libraries and packages:
+### Required libraries and packages:
 
 1. NUMBA 
 	sudo apt-get install python-numba
@@ -26,7 +26,7 @@ Note: 2, 3 are needed only for creating new scenarios. One may use recorded bags
 
 
 
-Steps to use the repository:
+### Steps to use the repository:
 
 1. Clone the repository
 
@@ -36,9 +36,9 @@ Steps to use the repository:
 
 4. roscore
 
-5. robag play
+5. robag play -----
 
 6. python rosnode.py
 
-7. open rviz and open config file
+7. open rviz and open relevant config file (Unless you are running scripts from carla folder, you can use kitti_related.config)
 

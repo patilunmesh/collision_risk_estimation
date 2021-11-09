@@ -1,6 +1,7 @@
 # collision_risk_estimation
 Collision risk estimation using stochastic motion models.
-This is  a  new  approach,  based  onstochastic models, to predict the future occupancy of vehicles and pedestrians. Our models only require tracked bounding box details and the class of the object from object detection method like Frustum-pointpillars, while uncertainties  in  sensing  and  prediction  are  captured  within the stochastic nature of the models.
+
+This is a new approach, based on stochastic models, to predict the future occupancy of vehicles and pedestrians. Our models only require tracked bounding box details and the class of the object from object detection method like Frustum-pointpillars, while uncertainties  in  sensing  and  prediction  are  captured  within the stochastic nature of the models.
 
 
 ![teaser_new_icar](https://user-images.githubusercontent.com/34339038/140978469-6084052b-d6dc-4436-87d3-a7990a1993f6.png)

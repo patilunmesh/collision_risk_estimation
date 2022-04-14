@@ -22,5 +22,4 @@ This is a new approach, based on stochastic models, to predict the future occupa
 ![carla_strip4](https://user-images.githubusercontent.com/34339038/140979273-d9ce1671-8407-4d32-82bf-a2bd42c22a31.png)  
 
 ### To cite the paper: 
-Unmesh Patil, Alessandro Renzaglia, Anshul Paigwar, Christian Laugier. Real-time Collision Risk Estimation based on Stochastic Reachability Spaces. ICAR 2021 - International Conference on Advanced Robotics, Dec 2021, Ljubljana, Slovenia. pp.1-6. hal-03416222
-
+U. Patil, A. Renzaglia, A. Paigwar and C. Laugier, "Real-time Collision Risk Estimation based on Stochastic Reachability Spaces," 2021 20th International Conference on Advanced Robotics (ICAR), 2021, pp. 216-221, doi: 10.1109/ICAR53236.2021.9659485.
